@@ -1,0 +1,1 @@
+Demo application for AWS ECS ECR
